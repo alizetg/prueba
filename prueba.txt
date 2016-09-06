@@ -1,3 +1,7 @@
 Hola soy Carlos
 hola soy andrea
+<<<<<<< HEAD
 Como se funciona
+
+Hola soy Carlos otra vez
+>>>>>>> 4c3933e9a80485a341dde2d2b486e903ae5d6516
